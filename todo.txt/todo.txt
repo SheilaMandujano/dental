@@ -1,0 +1,3 @@
+- Pestaña NOSOTROS no existe: INDEX. a. Ventana Emergente
+- Pestaña CONTACTO no existe: INDEX.  a. formulario (¿dudas?, name, lastname, email, telefono, ¿en que podemos ayudar? reCAPCHA, button de enviar)
+
