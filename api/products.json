@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "Básico (1x4)",
+        "price": "312",
+        "category_id": "1",
+        "category_name": "Instrumental Dental",
+        "description": "",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/05/Alveolotomo.-Deposito-Dentalmex-367x367.jpg"
+    },
+    {
+        "id": "2",
+        "name": "ACRÍLICO RÁPIDO DE 40 GR. KEMDENT",
+        "price": "312",
+        "category_id": "2",
+        "category_name": "Consumibles de Odontolodía",
+        "description": "",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/09/Acrilico-autocurable-de-la-marca-Kemdent.-Deposito-Dental-Dentalmex.jpg"
+    },
+    {
+        "id": "3",
+        "name": "ABREBOCAS MOLT. PEDIÁTRICO DE 6B",
+        "price": "312",
+        "category_id": "3",
+        "category_name": "Material de Operatoría Dental",
+        "description": "",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/04/abrebocas-molt-marca-6b.jpg"
+    },
+    {
+        "id": "4",
+        "name": "ARCOS DE ACERO CUADRADOS O RECTANGULARES C/10 PZAS. iLine",
+        "price": "312",
+        "category_id": "4",
+        "category_name": "Productos de Ortodoncia",
+        "description": "",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/02/Arcos-Cuadrados-y-rectangulares-para-Ortodoncia-de-Acero-inoxidable-de-la-marca-iLine-Borgatta.-Deposito-Dental-Dentalmex.jpg"
+    },
+    {
+        "id": "5",
+        "name": "CONTRANGULO DE BAJA VELOCIDAD DORIOT. BORGATTA",
+        "price": "312",
+        "category_id": "5",
+        "category_name": "Equipo Dental",
+        "description": "",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/06/Contrangulo-para-pieza-de-baja-tipo-medidental.jpg"
+    },
+    {
+        "id": "6",
+        "name": "CEMENTO PARA ENDODONCIA. VIARDEN",
+        "price": "312",
+        "category_id": "6",
+        "category_name": "Endodoncia",
+        "description": "Cemento para endodoncia de la marca Viarden. Hecho a base de óxido de zinc, sulfato de bario, borato de sodio, resina natural, acelerador y eugenol (fórmula de Grossman)",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/02/cemento-2-cc.jpg"
+    },
+        {
+        "id": "7",
+        "name": "ALGINATO KROMOPAN 450 GRS. ALGINATO CROMÁTICO",
+        "price": "170",
+        "category_id": "7",
+        "category_name": "Prótesis",
+        "description": "Alginato Kromopan con 450 gramos de la marca LASCOD.",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/02/KROMOPAN-CC.jpg"
+    },
+    {
+        "id": "8",
+        "name": "FRESONES DE ACERO",
+        "price": "312",
+        "category_id": "8",
+        "category_name": "Material para Laboratorio",
+        "description": "Fresones de acero para pieza de baja velocidad. Excelentes para desgastar material de manera mas rápida y precisa.",
+        "image": "https://www.dentalmex.mx/wp-content/uploads/2019/03/fresonesdeacero.jpg"
+    },
+]

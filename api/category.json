@@ -1,0 +1,36 @@
+[
+    {
+      "id": "1",
+        "name": "Instrumental Dental",
+        "image": ""
+    },
+        {
+      "id": "2",
+        "name": "Consumibles de Odontolodía",
+        "image": ""
+    },    {
+      "id": "3",
+        "name": "Material de Operatoría Dental",
+        "image": ""
+    },    {
+      "id": "4",
+        "name": "Productos de Ortodoncia",
+        "image": ""
+    },    {
+      "id": "5",
+        "name": "Equipo Dental",
+        "image": ""
+    },    {
+      "id": "6",
+        "name": "Endodoncia",
+        "image": ""
+    },    {
+      "id": "7",
+        "name": "Prótesis",
+        "image": ""
+    },    {
+    "id": "8",
+        "name": "Material para Laboratorio",
+        "image": ""
+    },
+]
