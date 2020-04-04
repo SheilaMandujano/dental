@@ -1,3 +1,6 @@
 - Pestaña NOSOTROS no existe: INDEX. a. Ventana Emergente
 - Pestaña CONTACTO no existe: INDEX.  a. formulario (¿dudas?, name, lastname, email, telefono, ¿en que podemos ayudar? reCAPCHA, button de enviar)
++ Pestaña EVENTOS no existe: INDEX a. cambiar de eventos a nombre noticias. b. comenzar con el contenido
++ Pestaña NOTICIAS: INDEX a. datos curiosos y carteles.
+- JASON's productos.
 
